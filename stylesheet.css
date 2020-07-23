@@ -1,0 +1,72 @@
+.class1
+{
+display: block;
+height: 480px;
+width: 1100px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.class2
+{
+text-align:center;
+font-size : 70px;
+color: #004d00;
+font-family: Comic Sans Ms;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border-radius: 12px;
+  color: white;
+  padding: 18px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 40px;
+  -webkit-transition-duration: 0.6s; /* Safari */
+  transition-duration: 0.6s;
+  cursor: pointer;
+  font-family: comic sans ms;
+}
+
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.button2 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button2 {
+  padding: 2px 4px;
+  background-color: #4CAF50; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button2:hover {
+  background-color: white;
+  color: white;
+}
+
+#id1
+{
+font-size: 20px;
+font-family: Comic Sans Ms;
+color: white;  
+}
+
+
